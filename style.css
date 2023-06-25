@@ -1,0 +1,81 @@
+body {
+    background-color: #1c2455;
+    background-image: linear-gradient(to bottom right, #1a21477c, #07123149);
+}
+
+.container {
+    display: flex;
+}
+.title {
+    text-align: center;
+    text-decoration: dotted;
+    font-size: 50px;
+    margin-top: 10px;
+    font-family: cursive;
+    color: whitesmoke;
+    text-shadow: 0 0 13px #450bed;
+}
+.left {
+    flex: 5;
+}
+.right {
+    flex: 3;
+}
+.sliderValue{
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    margin-left: 55px;
+}
+#slider {
+    width: 35%;
+}
+.value{
+    color: white;
+   padding-left: 10px;
+   font-size: 22px;
+   text-shadow: 3px 0px rgb(255, 0, 85);
+}
+button{
+    padding: 20px;
+    border-radius: 200px;
+    margin: 15px;
+    box-shadow: 0 0 13px rgba(39, 20, 151, 0.945);
+    border: none;
+    background-color: transparent;
+    text-shadow: 0 0 7px rgb(42, 39, 212);
+    font-size: 18px;
+    font-family: cursive;
+    color: rgba(255, 255, 255, 0.829);
+    box-shadow: 0 0 5px #ffffffbb, 0 0 5px #ffffffd3 inset;
+    cursor: pointer;
+  transition: all .5s ease-in;
+}
+.active{
+        box-shadow: 0 0 30px #F44D9B, 0 0 2px #F44D9B inset;
+}
+#r{
+    margin-right: 20%;
+}
+#rb{
+    margin-right: 20%;
+}
+#c{
+    margin-left: 17%;
+}
+.grid {
+    width: 575px;
+    height: 575px;
+    display: inline-grid;
+    /* grid-template-columns: repeat(100, 2fr);
+    grid-template-rows: repeat(100, 2fr); */
+    border: 5px solid gray;
+    background-color: rgb(238, 238, 238);
+    border-radius: 5px;
+    margin-left: 50px;
+}
+
+.cell {
+    border: 1px solid black;
+    background-color: rgb(238, 236, 236);
+}
