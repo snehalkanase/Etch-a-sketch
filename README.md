@@ -1,16 +1,16 @@
 # Each-a-Sketch: Pixel Sketch App
 
-A browser version of drawing toy similar to Etch A Sketch.
+A browser version of a drawing toy similar to Etch A Sketch.
 
 ## Create your own pixel art.
 
  - Select any colour for the pen or background.
  - Grab used colours from the canvas.
- - Colour fill tool fills in shapes with selected colour.
+ - Colour fill tool fills in shapes with selected colours.
  - Rainbow pen colours each cell a random colour.
- - Create a grid size up to 100 x 100.
+ - Create a grid size of up to 100 x 100.
 
- ## Future Developement.
+ ## Future Development.
  - Save images.
  - undo & redo changes.
  - Export images.
@@ -24,4 +24,4 @@ A browser version of drawing toy similar to Etch A Sketch.
 
 ## Screenshots
 
-![alt text](screenshots/screenshot (23).png)
+![App Screenshot](https://github.com/snehalkanase/Etch-a-sketch/blob/main/Screenshot%20(23).png?raw=true)
