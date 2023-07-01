@@ -20,7 +20,7 @@ A browser version of a drawing toy similar to Etch A Sketch.
 - [@Snehal Kanase](https://github.com/snehalkanase)
 ## Demo
 
-- [Live Link](https://github.com/snehalkanase)
+- [Live Link](https://snehalkanase.github.io/Etch-a-sketch/)
 
 ## Screenshots
 
